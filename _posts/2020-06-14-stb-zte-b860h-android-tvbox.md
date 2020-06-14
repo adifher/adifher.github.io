@@ -77,7 +77,7 @@ A: Bisa Banget, Tinggal buka Youtube dan Cari lagu Karaoke.
 **NISA** 
 *"Seller Ramah, Recommend pokoknya"*
 
-Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan!!
+Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan Sekarang!!
 
 ## PEMESANAN
 

@@ -69,9 +69,9 @@ Tertarik dengan produk ini?
 
 **PESAN MELALUI**
 
-WA      : <a href="wa.me/085200750417">085 200 750 417</a>
+<a href="https://wa.me/085200750417?text=Saya%20tertarik%20untuk%20membeli%20Kamera%20CCTV%20Lampu%20Bohlam%20IP%20CAM%20Wireless%202MP%20Panorama" rel="Order Via Whatsapp">![Foo](https://res.cloudinary.com/adifher/image/upload/c_scale,w_469/v1592126556/GITHUB/SOSMED%20LOGO/wa_f14ksg.png)</a>
 
-TOKPED  : <a href="www.tokopedia.com/adifher">www.tokopedia.com/adifher</a>
+<a href="https://www.tokopedia.com/adifher" rel="Order Via Tokopedia">![Foo](https://res.cloudinary.com/adifher/image/upload/v1592126538/GITHUB/SOSMED%20LOGO/tokped_owh0m4.png)</a>
 
 ## GAMBAR
 

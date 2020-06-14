@@ -4,8 +4,8 @@ layout: post
 title: Menjadikan TV Biasa menjadi TV Pintar dengan alat ini
 subtitle:  STB ZTE B860H Android TV BOX RAM 2GB.
 description: Kamu punya TV Led atau TV Tabung? Ubah menjadi TV Pintar dengan alat ini.
-image: https://res.cloudinary.com/adifher/image/upload/v1592109767/GITHUB/STB/1592105368-picsay_ia9mdf.jpg
-optimized_image: https://res.cloudinary.com/adifher/image/upload/v1592109767/GITHUB/STB/1592105368-picsay_ia9mdf.jpg
+image: https://res.cloudinary.com/adifher/image/upload/v1592109738/GITHUB/STB/IMG_20200610_101914_353_vrvdhf.jpg
+optimized_image: https://res.cloudinary.com/adifher/image/upload/v1592109738/GITHUB/STB/IMG_20200610_101914_353_vrvdhf.jpg
 category: Aksesoris Komputer
 tags:
   - ANDROID TV

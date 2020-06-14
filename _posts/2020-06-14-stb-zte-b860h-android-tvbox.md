@@ -74,7 +74,7 @@ A: Bisa Banget, Tinggal buka Youtube dan Cari lagu Karaoke.
 **YUDI** 
 *"Semakin betah dirumah"*
 
-**PUPUT** 
+**NISA** 
 *"Seller Ramah, Recommend pokoknya"*
 
 Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan!!

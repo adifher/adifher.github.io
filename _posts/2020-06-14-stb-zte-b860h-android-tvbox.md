@@ -85,7 +85,7 @@ Tertarik dengan produk ini?
 
 **PESAN MELALUI**
 
-Harga : <del>380.000</del> > 350.000
+Harga : <del>Rp. 380.000</del> > Rp. 350.000
 
 WA      : <a href="wa.me/085200750417">085 200 750 417</a>
 

@@ -79,13 +79,15 @@ A: Bisa Banget, Tinggal buka Youtube dan Cari lagu Karaoke.
 
 Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan Sekarang!!
 
+## HARGA 
+
+![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592125527/GITHUB/STB/harga_poetzp.png "HARGA")
+
 ## PEMESANAN
 
 Tertarik dengan produk ini?
 
 **PESAN MELALUI**
-
-Harga : <del>Rp. 380.000</del> > Rp. 350.000
 
 WA      : <a href="wa.me/085200750417">085 200 750 417</a>
 

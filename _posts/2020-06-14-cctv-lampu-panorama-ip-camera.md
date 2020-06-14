@@ -15,7 +15,9 @@ author: adifher
 ---
 
 Kelebihan Produk kami 
+
 1.- AP Mode : IP Camera bisa memancarkan wifi, hubungkan ke HP saja langsung seperti connect/pair bluetooth, Sehingga camera langsung bisa diakses dari hp/tab tanpa perlu internet. Selama HP bisa menangkap signal wifi camera (kurang lebih 15 Meter), Cocok buat customer yg tidak punya router wifi.
+
 2 - Station Mode/ Wifi Mode, Untuk streaming jarak jauh, mesti pilih Wifi Mode pakai internet dari wifi rumah (( PRODUCT HANYA BISA DI JARINGAN WIFI FREKWENSI 2,4 GHZ ))
 
 # DESKRIPSI PRODUK

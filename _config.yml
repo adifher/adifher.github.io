@@ -3,11 +3,11 @@ name: Adifher Online Shop
 title: Adifher | Menyediakan Semua Kebutuhan Anda 
 description: Sebuah website sederhana yang saya ciptakan untuk memenuhi kebutuhan anda.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - adifher
+  - jual beli
+  - online shop
+  - aksesoris komputer
+  - toko online
 email: akublog69@gmail.com
 disqus_username: adifher
 show_hero: true
@@ -20,6 +20,8 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+
+site.url: adifher.github.com
 
 
 # Social Media Settings

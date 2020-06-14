@@ -59,13 +59,15 @@ Kelebihan Produk kami
 
 Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan Sekarang!!
 
+## HARGA
+
+![placeholder](https://res.cloudinary.com/adifher/image/upload/c_scale,w_342/v1592124245/GITHUB/CCTV/harga_iexbfl.png "HARGA")
+
 ## PEMESANAN
 
 Tertarik dengan produk ini?
 
 **PESAN MELALUI**
-
-Harga : <del>Rp. 350.000</del> > Rp. 280.000
 
 WA      : <a href="wa.me/085200750417">085 200 750 417</a>
 

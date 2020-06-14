@@ -91,7 +91,7 @@ Tertarik dengan produk ini?
 
 <a href="https://wa.me/6285200750417?text=Saya%20tertarik%20untuk%20membeli%20STB%20ZTE%20B860H%20Android%20TV%20Box" rel="Order Via Whatsapp">![Foo](https://res.cloudinary.com/adifher/image/upload/c_scale,w_469/v1592126556/GITHUB/SOSMED%20LOGO/wa_f14ksg.png)</a>
 
-<a href="https://www.tokopedia.com/adifher" rel="Order Via Tokopedia">![Foo](https://res.cloudinary.com/adifher/image/upload/v1592126538/GITHUB/SOSMED%20LOGO/tokped_owh0m4.png)</a>
+<a href="https://www.tokopedia.com/adifher/stb-zte-b860h-android-tv-ram-2gb" rel="Order Via Tokopedia">![Foo](https://res.cloudinary.com/adifher/image/upload/v1592126538/GITHUB/SOSMED%20LOGO/tokped_owh0m4.png)</a>
 
 ## FITUR-FITUR
 

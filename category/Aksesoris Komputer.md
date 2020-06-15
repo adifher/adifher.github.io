@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Blog
-slug: blog
+title: Aksesoris Komputer
+slug: Aksesoris Komputer
 description: A category for general blog posts.
 ---
 

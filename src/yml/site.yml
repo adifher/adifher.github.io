@@ -1,14 +1,14 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Adifher Online Shop
+title: Adifher | Menyediakan Semua Kebutuhan Anda 
+description: Sebuah website sederhana yang saya ciptakan untuk memenuhi kebutuhan anda.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - adifher
+  - jual beli
+  - online shop
+  - aksesoris komputer
+  - toko online
+email: akublog69@gmail.com
+disqus_username: adifher
 show_hero: true
 menu:
   - title: Home

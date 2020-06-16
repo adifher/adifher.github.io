@@ -61,7 +61,7 @@ Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan Sekarang!!
 
 ## HARGA
 
-![placeholder](https://res.cloudinary.com/adifher/image/upload/c_scale,w_342/v1592124245/GITHUB/CCTV/harga_iexbfl.png "HARGA")
+![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592296982/GITHUB/CCTV/harga_cctv_akuign.png "HARGA")
 
 ## PEMESANAN
 

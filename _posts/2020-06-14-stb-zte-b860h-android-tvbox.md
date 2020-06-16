@@ -81,7 +81,7 @@ Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan Sekarang!!
 
 ## HARGA 
 
-![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592125527/GITHUB/STB/harga_poetzp.png "HARGA")
+![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592296932/GITHUB/STB/harga_stb_d1bltz.png "HARGA")
 
 ## PEMESANAN
 

@@ -14,6 +14,10 @@ tags:
 author: adifher
 ---
 
+# IKUT SELAMATKAN DUNIA DENGAN MEMBELI PRODUK INI
+
+<iframe width="480" height="420" src="http://www.youtube.com/embed/gjdi8rsrQjA" frameborder="0"> </iframe>
+
 LCD Drawing Writing Tablet untuk Anak dan Dewasa 8.5 Inch
 
 "Aman dari debu kapur dan bahan kimia spidol"
@@ -61,7 +65,7 @@ Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan Sekarang!!
 
 ## HARGA
 
-![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592296561/GITHUB/LCD%20Tablet/harga_zphhca.png "HARGA")
+![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592376534/GITHUB/LCD%20Tablet/harga_nhiucb.png "HARGA")
 
 ## PEMESANAN
 

@@ -63,7 +63,7 @@ LCD Drawing Writing Tablet untuk Anak dan Dewasa 8.5 Inch
 
 Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan Sekarang!!
 
-## HARGA
+## HARGA PROMO
 
 ![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592376534/GITHUB/LCD%20Tablet/harga_nhiucb.png "HARGA")
 
@@ -75,7 +75,10 @@ Tertarik dengan produk ini?
 
 <a href="https://wa.me/6285200750417?text=Saya%20tertarik%20untuk%20membeli%20LCD%20Tablet%20Untuk%20Menulis%20Dan%20Menggambar%208,5inch" rel="Order Via Whatsapp">![Foo](https://res.cloudinary.com/adifher/image/upload/c_scale,w_469/v1592126556/GITHUB/SOSMED%20LOGO/wa_f14ksg.png)</a>
 
-<a href="https://www.tokopedia.com/adifher/" rel="Order Via Tokopedia">![Foo](https://res.cloudinary.com/adifher/image/upload/v1592126538/GITHUB/SOSMED%20LOGO/tokped_owh0m4.png)</a>
+<a href="https://www.tokopedia.com/adifher/lcd-tablet-untuk-menulis-dan-menggambar-8-5-inch" rel="Order Via Tokopedia">![Foo](https://res.cloudinary.com/adifher/image/upload/v1592126538/GITHUB/SOSMED%20LOGO/tokped_owh0m4.png)</a>
+
+<h1 style="text-align: center">PROMO AKAN BERAKHIR DALAM</h1>
+<h1 style="text-align: center" id="adifcountdown"></h1>
 
 ## GAMBAR
 

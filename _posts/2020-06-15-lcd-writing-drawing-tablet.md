@@ -1,7 +1,7 @@
 ---
 date: 2020-6-15 10:20:40
 layout: post
-title: LCD Tablet Untuk Menulis Dan Menggambar 8,5inch
+title: LCD Tablet Untuk Menulis Dan Menggambar 8,5 Inch
 subtitle: Bisa juga untuk membuat catatan kerja.
 description: LCD Tablet penghemat kertas dan menghemat biaya.
 image: https://res.cloudinary.com/adifher/image/upload/v1592297617/GITHUB/LCD%20Tablet/1_ggr0iu.jpg
@@ -11,6 +11,8 @@ tags:
   - Drawing Tablet
   - Writing Tablet
   - LCD Tablet
+  - Office
+  - Alat Kantor
 author: adifher
 ---
 

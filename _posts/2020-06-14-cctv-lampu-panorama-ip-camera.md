@@ -90,4 +90,6 @@ Tertarik dengan produk ini?
 **TAMPAK ATAS**
 ![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592121437/GITHUB/CCTV/IMG_20200613_132659_878_gizixq.jpg "TAMPAK ATAS")
 
+<h2 style="text-align: center;">
 GARANSI 1 BULAN GANTI BARU
+</h2>

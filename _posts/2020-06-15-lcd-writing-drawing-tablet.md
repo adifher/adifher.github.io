@@ -54,23 +54,32 @@ FITUR
 - Ringan dan tahan banting, tanpa khawatir kalau rusak.
 
 <h2 style="text-align: center;">
+WARNA YANG READY
+</h2>
+* MERAH
+* BIRU
+* PUTIH
+* HITAM
+
+<h2 style="text-align: center;">
 TESTIMONI
 </h2>
 
-**akemi** 
-*"barang sesuai spek . . . fast response . . . recommended seller . . ."*
+**Diana** 
+*"Barang sesuai deskripsi, luchu luchu pokonya, kusukak, thankyou kak 💕"*
+<img src="https://cf.shopee.co.id/file/cb1fc64d405f11af8a2e2891af691a17" width="350">
 
-**aristo** 
+**Samara** 
 *"Mantap respon cepat barang sesuai pesanan Terima Kasih"*
+<img src="https://cf.shopee.co.id/file/79e40ea069bae667c89fedfa03f685f4" width="350">
 
-**Satrya** 
+**Desi** 
 *"Good sesuai produk, Respon cepat, Packing lumayan kuat."*
+<img src="https://cf.shopee.co.id/file/2f1e855810f02b38aa6ca61015736a8b" width="350">
 
-**fauzi_top** 
-*"Pengiriman cepat, produk ok, barang aman dan qualitas mantab , respon kereeen.... Nice."*
-
-**Rokid** 
-*Proses pengiriman cepat...respon penjual oke... barang perfungsi dengan baik...mantaaap"*
+**Syahputra** 
+*"Pesanan sudah sampai,sudah dicoba berfungsi dengan baik...thankz"*
+<img src="https://cf.shopee.co.id/file/715b6a59ffd55d7847ed23152ed37cd7" width="350">
 
 Dan masih banyak testimoni-testimoni lainya. Ayo Buktikan Sekarang!!
 
@@ -103,24 +112,26 @@ Tertarik dengan produk ini? Silahkan pesan melalui whatsapp kami dibawah ini.
 STOK TERBATAS!
 </h3>
 
-<h2 style="text-align: center;">
-GAMBAR
-</h2>
 
-**TAMPAK DEPAN**
-![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592297617/GITHUB/LCD%20Tablet/1_ggr0iu.jpg "TAMPAK DEPAN")
+<h3 style="text-align: center;">
+TAMPAK DEPAN</h3>
+<img src="https://res.cloudinary.com/adifher/image/upload/v1592297617/GITHUB/LCD%20Tablet/1_ggr0iu.jpg" width="700" alt="Tampak Depan">
 
-**TAMPAK SAMPING**
-![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592297618/GITHUB/LCD%20Tablet/2_slfqmb.jpg "TAMPAK SAMPING")
+<h3 style="text-align: center;">
+TAMPAK SAMPING</h3>
+<img src="https://res.cloudinary.com/adifher/image/upload/v1592297618/GITHUB/LCD%20Tablet/2_slfqmb.jpg" width="700" alt="Tampak Saming">
 
-**TAMPAK ATAS**
-![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592297617/GITHUB/LCD%20Tablet/8_gbijii.jpg "TAMPAK ATAS")
+<h3 style="text-align: center;">
+TAMPAK ATAS</h3>
+<img src="https://res.cloudinary.com/adifher/image/upload/v1592297617/GITHUB/LCD%20Tablet/8_gbijii.jpg" width="700" alt="Tampak Atas">
 
-**WRITTING PEN**
-![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592295484/GITHUB/LCD%20Tablet/5_hivpj6.jpg "PEN")
+<h3 style="text-align: center;">
+WRITTING PEN</h3>
+<img src="https://res.cloudinary.com/adifher/image/upload/v1592295484/GITHUB/LCD%20Tablet/5_hivpj6.jpg" width="700" alt="Writting Pen">
 
-**CONTOH UNTUK MENGGAMBAR**
-![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592295485/GITHUB/LCD%20Tablet/4_abbhfk.jpg "CONTOH UNTUK MENGGAMBAR")
+<h3 style="text-align: center;">
+CONTOH UNTUK MENGGAMBAR</h3>
+<img src="https://res.cloudinary.com/adifher/image/upload/v1592295485/GITHUB/LCD%20Tablet/4_abbhfk.jpg" width="700" alt="Writting Pen">
 
 <h2 style="text-align: center;">
 PESAN MELALUI WHATSAPP

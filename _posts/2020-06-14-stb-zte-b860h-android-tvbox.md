@@ -124,3 +124,7 @@ Dengan harga yang terjangkau kamu sudah bisa mendapatkan fitur-fitur seperti ini
 ![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592109744/GITHUB/STB/IMG_20200610_101938_830_bdgpck.jpg "ILFIX")
 
 Dan masih banyak fitur-fitur lainya.
+
+<h2 style="text-align: center;">
+GARANSI 1 BULAN GANTI BARU
+</h2>

@@ -103,7 +103,7 @@ PEMESANAN
 <P style="text-align: center;">
 Tertarik dengan produk ini? Silahkan pesan melalui whatsapp kami dibawah ini.
 </P>
-<a href="https://wa.me/6285200750417?text=Saya%20tertarik%20untuk%20membeli%20LCD%20Tablet%20Untuk%20Menulis%20Dan%20Menggambar%208,5inch" rel="Order Via Whatsapp">![Foo](https://res.cloudinary.com/adifher/image/upload/c_scale,w_469/v1592126556/GITHUB/SOSMED%20LOGO/wa_f14ksg.png)</a>
+<a href="https://wa.me/6283162914251?text=Saya%20tertarik%20untuk%20membeli%20LCD%20Tablet%20Untuk%20Menulis%20Dan%20Menggambar%208,5inch" rel="Order Via Whatsapp">![Foo](https://res.cloudinary.com/adifher/image/upload/c_scale,w_469/v1592126556/GITHUB/SOSMED%20LOGO/wa_f14ksg.png)</a>
 
 <h2 style="text-align: center">PROMO AKAN BERAKHIR DALAM</h2>
 <h1 style="text-align: center" id="adifcountdown"></h1>
@@ -137,4 +137,4 @@ CONTOH UNTUK MENGGAMBAR</h3>
 PESAN MELALUI WHATSAPP
 </h2>
 
-<a href="https://wa.me/6285200750417?text=Saya%20tertarik%20untuk%20membeli%20LCD%20Tablet%20Untuk%20Menulis%20Dan%20Menggambar%208,5inch" rel="Order Via Whatsapp">![Foo](https://res.cloudinary.com/adifher/image/upload/c_scale,w_469/v1592126556/GITHUB/SOSMED%20LOGO/wa_f14ksg.png)</a>
+<a href="https://wa.me/6283162914251?text=Saya%20tertarik%20untuk%20membeli%20LCD%20Tablet%20Untuk%20Menulis%20Dan%20Menggambar%208,5inch" rel="Order Via Whatsapp">![Foo](https://res.cloudinary.com/adifher/image/upload/c_scale,w_469/v1592126556/GITHUB/SOSMED%20LOGO/wa_f14ksg.png)</a>

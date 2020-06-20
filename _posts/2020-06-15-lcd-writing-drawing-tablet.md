@@ -22,9 +22,10 @@ IKUT SELAMATKAN DUNIA DENGAN MEMBELI PRODUK INI
 
 <iframe width="480" height="420" src="http://www.youtube.com/embed/gjdi8rsrQjA" frameborder="0"> </iframe>
 
-LCD Drawing Writing Tablet untuk Anak dan Dewasa 8.5 Inch
+Tidak hanya untuk anak-anak saja LCD Tablet ini juga bisa untuk anda sebagai catatan kerja. 
+Dengan desain yang simple dan tipis, mudah untuk dibawa kemana-mana.
 
-"Aman dari debu kapur dan bahan kimia spidol"
+Dengan baterai yang dapat bertahan 2 tahun lamanya, kamu tidak perlu khawatir jika kehabisan baterai.
 
 
 <h2 style="text-align: center;">
@@ -45,13 +46,12 @@ SPESIFIKASI
 <h2 style="text-align: center;">
 FITUR
 </h2>
-- Produk bermutu tinggi.
-- Untuk menggambar, membuat tulisan, berhitung, belajar anak dengan senang hati.
-- Permukaan penulisan LCD yang sensitif.
-- Mudah dioperasikan dan efisiensi tinggi, hapus gambar dengan satu tombol .
+- Untuk belajar menggambar, menulis anak, atau juga bisa digunakan untuk catatan kerja.
+- Layar LCD yang sensitif, sangat nyaman untuk menulis atau menggambar.
+- Pengoprasiannya sangat mudah .
 - Baterai tahan lama hingga 2 tahun.
 - Desainnya sangat ramping dan ringkas, mudah dibawa dan disimpan.
-- Ringan dan portabel, cocok untuk sekolah, kantor, rumah, dll.
+- Ringan dan tahan banting, tanpa khawatir kalau rusak.
 
 <h2 style="text-align: center;">
 TESTIMONI
@@ -80,6 +80,13 @@ HARGA PROMO
 
 ![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592376534/GITHUB/LCD%20Tablet/harga_nhiucb.png "HARGA")
 
+<h3 style="text-align: center;">
+JANGAN MUDAH TERTIPU DENGAN HARGA LEBIH MURAH!!
+</h3>
+
+<h3 style="text-align: center;">
+PRODUK YANG KAMI JUAL BERGARANSI JIKA MEMANG BARANG YANG DITERIMA TIDAK BERFUNGSI DENGAN BAIK.
+</h3>
 
 <h2 style="text-align: center;">
 PEMESANAN
@@ -109,15 +116,11 @@ GAMBAR
 **TAMPAK ATAS**
 ![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592297617/GITHUB/LCD%20Tablet/8_gbijii.jpg "TAMPAK ATAS")
 
-**PEN**
+**WRITTING PEN**
 ![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592295484/GITHUB/LCD%20Tablet/5_hivpj6.jpg "PEN")
 
 **CONTOH UNTUK MENGGAMBAR**
 ![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592295485/GITHUB/LCD%20Tablet/4_abbhfk.jpg "CONTOH UNTUK MENGGAMBAR")
-
-<h2 style="text-align: center;">
-GARANSI 1 BULAN GANTI BARU
-</h2>
 
 <h2 style="text-align: center;">
 PESAN MELALUI WHATSAPP

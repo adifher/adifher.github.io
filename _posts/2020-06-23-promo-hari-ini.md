@@ -1,5 +1,5 @@
 ---
-date: 2020-6-21 10:20:40
+date: 2020-6-22 00:00:40
 layout: post
 title: SPEAKER AL-QURAN MUROTTAL 
 subtitle: Rahasia Anak Semangat Membaca, Mendengarkan, dan Menghafal AL-Qur'an
@@ -8,25 +8,30 @@ image: https://res.cloudinary.com/adifher/image/upload/v1592836851/GITHUB/Al-Qur
 optimized_image: https://res.cloudinary.com/adifher/image/upload/v1592836851/GITHUB/Al-Quran%20Speaker/tumbnail_arqvpz.png
 category: Aksesoris Komputer
 tags:
-  - Drawing Tablet
-  - Writing Tablet
-  - LCD Tablet
-  - Office
-  - Alat Kantor
+  - speaker
+  - murottal
+  - quran
+  - hafalan
+  - alquran
+  - speakeralquran
+  - qurandigital
+  - termurah
+  - termurah
+  - mp3quran
 author: adifher
 ---
 
 <p style="text-align: center; color:red; font-size: 200%;">BEST SELLER! ALHAMDULILLAH TERJUAL</p>
 <p style="text-align: center; color:red; font-size: 200%;">LEBIH DARI 10.490 PCS</p>
 
-![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592831515/GITHUB/Al-Quran%20Speaker/best_seller_img_fvwmyg.png "gambar")
+![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592836851/GITHUB/Al-Quran%20Speaker/tumbnail_arqvpz.png "gambar")
 
 <h3 style="text-align: center;">
 <span>Murottal AL-Qur'an </span><span style="color:red;">30 Juz</span> Terlengkap 100 Qori Ternama (Qori Anak & Dewasa)</h3>
 <h3 style="text-align: center;">
 Bisa Diulang Per Ayat, Per Surat, Per Juz dan Per Halaman Cocok Untuk Hafalan Qur'an 😍</h3>
 
-![placeholder](https://cf.shopee.co.id/file/c86f5668201cd90f89e0f3786acae84b "gambar")
+![placeholder](https://res.cloudinary.com/adifher/image/upload/v1592837434/GITHUB/Al-Quran%20Speaker/Tangan_eletyj.jpg "gambar")
 
 <h3 style="text-align: center;">
 Desain Yang Sangat Disukai Anak, Membuat Anak Semangat Mendengarkan dan Menghafal Al-Qur'an 😍😍</h3>

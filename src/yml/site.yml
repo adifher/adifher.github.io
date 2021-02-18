@@ -1,0 +1,21 @@
+name: Adifher Online Shop
+title: Adifher | Menyediakan Semua Kebutuhan Anda 
+description: Sebuah website sederhana yang saya ciptakan untuk memenuhi kebutuhan anda.
+tags:
+  - adifher
+  - jual beli
+  - online shop
+  - aksesoris komputer
+  - toko online
+email: akublog69@gmail.com
+disqus_username: adifher
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml

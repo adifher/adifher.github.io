@@ -363,7 +363,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kGD42ZLQ-OfFt7rrrmLErptMN6c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" tvg-id="RIYAN.a5f82d4ec0c92dc505f77a1453e6fa56.SHINTA" tvg-name"Citra Entertainment _VIDIO" group-title="ENTERTAINMENT",Citra Entertainment _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0102a6ed6587b5b8cb4ebbe972864690b
 
-// ANAK & ILMU PENGETAHUAN
+// KIDS
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gKZzJQlnbkDh4yK7k7QGNuOPuAE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/ec097d.png" tvg-id="RIYAN.8b496bb695a50f1a3a062602ab85309a.SHINTA" tvg-name"Hip Hip Horee! _VIDIO" group-title="KIDS",Hip Hip Horee! _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbb102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" tvg-id="RIYAN.f87a1b299b422ec9dd161925de26ca28.SHINTA" tvg-name"Zoomoo _VIDIO" group-title="KIDS",Zoomoo _VIDIO
@@ -372,12 +372,38 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iZMVt657Jkn-fkpQwO84q7CMC5I=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" tvg-id="RIYAN.9bc5c1bdd384b7364c6b7360d65f3dad.SHINTA" tvg-name"Horee _VIDIO" group-title="KIDS",Horee _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441c102a6ed6587b5b8cb4ebbe972864690b
+
+//KNOWLEDGE
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.a691314fd495daaa0e461be7dee7c87c.SHINTA" tvg-name"Smithsonian _VIDIO" group-title="KNOWLEDGE",Smithsonian _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.4c63072df37019c60936d8758512b2dd.SHINTA" tvg-name"Love Nature _VIDIO" group-title="KNOWLEDGE",Love Nature _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/h5vOznosCDqjOS8uzAzYjpcbWYE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" tvg-id="RIYAN.a61527fefc1933ad05407d4702077128.SHINTA" tvg-name"TV Edukasi _VIDIO" group-title="KNOWLEDGE",TV Edukasi _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 group-title="KNOWLEDGE",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b450000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://kamiselaluada.com/img/ngc.png",National Geographic
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://kamiselaluada.com/img/natgeowild.png",Nat Geo Wild
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://kamiselaluada.com/img/discoverychannel.png",Discovery Channel
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY ASIA
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b450000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY-CHANNEL RUS
+http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://cdn.startimestv.com/static/files/console/26ce4687-165d-4cdd-88ac-18277ade9249.png",dmax
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Arirang Korea
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",AnimalPlanet RUS ENG
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png",Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@710958/index_480_av-p.m3u8?sd=10&rebase=on
 
 //TVRI
 #EXTINF:-1 group-title="TVRI Group" tvg-logo="https://i.imgur.com/IM2WlbF.jpg?1",TVRI Nasional 1

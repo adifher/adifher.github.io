@@ -8,9 +8,9 @@ http://adifher.com/database/db.mnc.vidio.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.c581ba7ca94d7ba58f3b078e878e56c3.SHINTA" tvg-name"RCTI _VIDIO" group-title="LOCAL",RCTI _VIDIO
 http://adifher.com/database/db.rcti.vidio.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.8c92b94f49f0b8fd15b98cc6bfed3e97.SHINTA" tvg-name"GTV _VIDIO" group-title="LOCAL",GTV _VIDIO
-http://adifher.com/database/db.rcti.gtv.m3u8
+http://adifher.com/database/db.gtv.vidio.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XO2UZvzbejnywcM2yiS7QjX5r3Y=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/5da027.png" tvg-id="RIYAN.2a1dc0fe3fc3a5768c61a46ee7453cfa.SHINTA" tvg-name"SCTV_VIDIO" group-title="LOCAL",SCTV_VIDIO
-http://adifher.com/database/db.sctv.gtv.m3u8
+http://adifher.com/database/db.sctv.vidio.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oznMlqHunOdzDHDYDXWU2PJYK34=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" tvg-id="RIYAN.5880af91dc932e52abf9b3740c187e32.SHINTA" tvg-name"Ochannel _VIDIO" group-title="LOCAL",Ochannel _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL",ANTV _DENS

@@ -622,9 +622,3 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=34ad2500f863b2f45b5d9cf2f500f78d99c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-logo="https://img.discogs.com/xvoJh5qmG9gRvtiasg7uRNNI7Ss=/fit-in/498x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-1003886-1551134729-6990.png.jpg" group-title="VOD",The Tarix Jabrix 3 _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
-
-//TEST ANIME
-#EXTINF:-1 tvg-logo="" group-title="TEST ANIME",AOT FINAL EPS 1
-http://adifher.com/database/TEST/aot.final.eps1.ts
-#EXTINF:-1 tvg-logo="" group-title="TEST ANIME",AOT FINAL EPS 1 HD
-http://adifher.com/database/TEST/aot.final.eps1-2.ts

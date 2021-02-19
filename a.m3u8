@@ -131,6 +131,60 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441c102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:0 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg" tvg-name"Aniplus" group-title="KIDS",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Animax 
+https://newlivetv.my.id:443/useetv/animax-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Babyfirst
+https://newlivetv.my.id:443/useetv/babyfirst-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Babybus
+https://newlivetv.my.id:443/youtube/babybus-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Biznetkids
+http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:0 tvg-id="ext" group-title="KIDS",BIZNETKIDS
+http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/chunklist_w1897903505_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Booba
+https://newlivetv.my.id:443/youtube/booba-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Boomerang 
+https://newlivetv.my.id:443/useetv/boomerang-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Cartoon Network 
+https://newlivetv.my.id:443/useetv/cartoonnetwork-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Dreamworks 
+https://newlivetv.my.id:443/useetv/cartoonnetwork-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Mykids
+https://newlivetv.my.id:443/useetv/mykids-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Nickjr 
+https://newlivetv.my.id:443/useetv/nickjr-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Nickelodeon 
+https://newlivetv.my.id:443/useetv/nickelodeon-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Nickelodeon live
+https://newlivetv.my.id:443/youtube/nickelodeon-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Ducktv
+https://newlivetv.my.id:443/useetv/ducktv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Chuchu
+https://newlivetv.my.id:443/youtube/chuchu-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Dave
+https://newlivetv.my.id:443/youtube/dave-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Kidstv
+https://newlivetv.my.id:443/youtube/kidstv-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Leo
+https://newlivetv.my.id:443/youtube/leo-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Lbb
+https://newlivetv.my.id:443/youtube/lbb-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Disney 
+https://newlivetv.my.id:443/youtube/disney-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Oddbods
+https://newlivetv.my.id:443/youtube/oddbods-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Paw patrol
+https://newlivetv.my.id:443/youtube/paw-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Pjmask
+https://newlivetv.my.id:443/youtube/pjmask-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Pocoyo
+https://newlivetv.my.id:443/youtube/pocoyo-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Pororo
+https://newlivetv.my.id:443/youtube/pororo-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Robocar
+https://newlivetv.my.id:443/youtube/robocar-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Talking tom
+https://newlivetv.my.id:443/youtube/tom-LiveTV.m3u8?LiveTV&stream_key=MdLvZvGZ
 
 // OLAHRAGA
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" tvg-id="RIYAN.ac87c88c8a41f853ab873b32662afe94.SHINTA" tvg-name"Champions TV 1 _VIDIO" group-title="SPORTS",Champions TV 1 _VIDIO

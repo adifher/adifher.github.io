@@ -129,6 +129,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iZMVt657Jkn-fkpQwO84q7CMC5I=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" tvg-id="RIYAN.9bc5c1bdd384b7364c6b7360d65f3dad.SHINTA" tvg-name"Horee _VIDIO" group-title="KIDS",Horee _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0 tvg-name"Aniplus" group-title="KIDS",Aniplus
+http://45.126.83.51/dr9445/h/h02/01.m3u8
 
 // OLAHRAGA
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" tvg-id="RIYAN.ac87c88c8a41f853ab873b32662afe94.SHINTA" tvg-name"Champions TV 1 _VIDIO" group-title="SPORTS",Champions TV 1 _VIDIO
@@ -622,30 +624,3 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=34ad2500f863b2f45b5d9cf2f500f78d99c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-logo="https://img.discogs.com/xvoJh5qmG9gRvtiasg7uRNNI7Ss=/fit-in/498x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-1003886-1551134729-6990.png.jpg" group-title="VOD",The Tarix Jabrix 3 _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 tvg-logo="KOSONG" group-title="Kids", Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-#EXTINF:0 group-title="Kids",Disney Jr
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_big.png" group-title="Kids", Nickelodeon
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_big.png" group-title="Kids", Nick JR
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_big.png" group-title="Kids", Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
-#EXTINF:-1 tvg-logo="KOSONG" group-title="Kids", Disney XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
-#EXTINF:0 group-title="Kids",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:0 group-title="Kids",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_big.png" group-title="Kids", Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
-#EXTINF:-1 tvg-logo="KOSONG" group-title="Kids", Baby TV
-https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="KOSONG" group-title="Kids",Bee Smart
-https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_98800_ind=5.m3u8
-#EXTINF:0 group-title="Kids",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-#EXTINF:0 group-title="Kids",Aniplus
-http://45.126.83.51/dr9445/h/h02/01.m3u8

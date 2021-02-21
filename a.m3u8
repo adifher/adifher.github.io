@@ -1,6 +1,8 @@
 #EXTM3U
 
 // LOKAL
+#EXTINF:-1 tvg-id="TEST" tvg-name"TEST" group-title="LOCAL",TEST
+http://adifher.com/db/c.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="INDOSIAR" tvg-name"INDOSIAR_VIDIO" group-title="LOCAL",INDOSIAR_VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="MNC" tvg-name"MNC _VIDIO" group-title="LOCAL",MNC _VIDIO
